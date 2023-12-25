@@ -1,0 +1,12 @@
+System Design:
+https://saxenasanket.medium.com/designing-a-collaborative-editing-tool-understanding-the-core-concepts-25b9b79a2918
+
+https://srijancse.medium.com/how-real-time-collaborative-editing-work-operational-transformation-ac4902d75682
+
+https://medium.com/@sureshpodeti/system-design-google-docs-93e12133a979#:~:text=A%20collaborative%20document%20editing%20service%20can%20be%20designed%20in%20two,collaborate%20on%20a%20single%20document.
+
+yarn installation:
+npm install --global yarn
+
+Automerge docs:
+https://automerge.org/docs/quickstart/
